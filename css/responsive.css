@@ -4,5 +4,8 @@
     width: 90%;
   }
   
-  #social
+  #social {
+    position: absolute;
+    
+  }
 }
