@@ -50,5 +50,9 @@
   
   @media only for screen and (max-width: 750px) {
     .col-1, .col-2, .col-3; {
-  }
+    width: 100%;
+    margin:;
+    float: none;
+      
+    }
   
