@@ -83,7 +83,6 @@
     padding: 10x 20x;
     width: auto;
   }
-  }
     
     #logo {
       padding: 60px 0 0;
@@ -92,7 +91,9 @@
     #social {
       top: 60 px;
     }
+  }
   
+  @media only screen and (max-width: 750px)
   
   
   
