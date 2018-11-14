@@ -94,7 +94,9 @@
   }
   
   @media only screen and (max-width: 495px) {
-    h2
+    #logo h2 {
+      
+    }
   }
   
   
